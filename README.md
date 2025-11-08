@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Checkout my portfolio](https://vertexe.github.io/portfolio/)
+[Checkout my portfolio!](https://vertexe.github.io/site/)
 
 [![vertexE's GitHub stats](https://github-readme-stats.vercel.app/api?username=vertexE)](https://github.com/anuraghazra/github-readme-stats)
 
